@@ -1,0 +1,8 @@
+.container2 {
+    border: 3px solid crimson; 
+    height: 200px;
+    overflow: hidden;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 100px;
+  }

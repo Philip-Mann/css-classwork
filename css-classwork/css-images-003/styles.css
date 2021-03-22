@@ -1,0 +1,5 @@
+.container {
+    /* width: 300px; dont need this cause its resized in my html (⌐■_■)
+    height: 200px; */
+    margin: 0 auto;
+}
